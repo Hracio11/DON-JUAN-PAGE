@@ -17,7 +17,7 @@
     <header class="container">
         <div class="row">
             <div class="col-md-3">
-                <a href="#"><img src="http://localhost/wordpress/wp-content/uploads/2023/10/logo-1.png" alt=""></a>
+                <a href="#"><img class="logo"src="http://localhost/wordpress/wp-content/uploads/2023/10/logo-1.png" alt=""></a>
             </div>
             <div class="col-md-6">
                 <?php wp_nav_menu('header-menu');?>
