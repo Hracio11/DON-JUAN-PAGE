@@ -3,11 +3,11 @@
             <div class="col-md-3">          
             </div>
             <div class="col-md-6">
-                <h2 class="footer_tittle">Contactanos</h2>
-                <p>(Numero de celular)</p>
+                <h2>Contactanos</h2>
+                <p>(01)292-2243</p>
                 <p>Servicio al cliente:</p>
                 <p>Lunes a Domingo</p>
-                <p>9:00am a 9:00pm</p>
+                <p>6:00am a 11:00pm</p>
             </div>
             <div class="col-md-3"> 
             </div>
