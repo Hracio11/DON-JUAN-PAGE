@@ -16,10 +16,11 @@
     </div>
         
     </footer>
-
+    <script src="https://code.jquery.com/jquery-2.2.4.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
+    <script type="text/javascript" src="//cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js"></script>
     <script>
-        $('.autoplay').slick({
-            slidesToShow: 3,
+        $('.banner1').slick({
+            slidesToShow: 1,
             slidesToScroll: 1,
             autoplay: true,
             autoplaySpeed: 2000,

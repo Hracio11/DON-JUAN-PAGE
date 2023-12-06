@@ -63,8 +63,10 @@ button{
 /*.woocommerce ul.products li.product a img {
   
 }*/
-
-
+.slick-next, .slick-prev {
+    display: none !important;
+}
+  
 footer{
     background-color: #00bf62;
     color: white;
@@ -73,3 +75,4 @@ footer{
 .footer_tittle{
     font-size: 100px;
 }
+
