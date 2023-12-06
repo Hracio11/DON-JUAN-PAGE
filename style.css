@@ -44,6 +44,7 @@ button{
 }
 .banner{
     width: 100%;
+    margin-top: 10px;
 }
 .attachment-woocommerce_thumbnail{
     height: 200px;
