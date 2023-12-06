@@ -1,13 +1,13 @@
 <?php get_header();?>
 <section class="container">
     <div class="row banner1">
-        <div class="autoplay">
+        <div class="banner autoplay">
             <img class="banner" src="http://localhost/wordpress/wp-content/uploads/2023/10/1.png" alt="">
         </div>
-        <div class="autoplay">
+        <div class="banner autoplay">
             <img class="banner" src="http://localhost/wordpress/wp-content/uploads/2023/10/3.png" alt="">
         </div>
-        <div class="autoplay">
+        <div class="banner autoplay">
             <img class="banner" src="http://localhost/wordpress/wp-content/uploads/2023/10/2.png" alt="">
         </div>
     </div>

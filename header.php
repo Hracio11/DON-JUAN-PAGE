@@ -14,21 +14,24 @@
     <script type="text/javascript" src="//cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js"></script>
 </head>
 <body <?php body_class(); ?>>
-    <header class="container">
-        <div class="row">
-            <div class="col-md-3">
-                <a href="<?php echo home_url(); ?>"><img class="logo"src="http://localhost/wordpress/wp-content/uploads/2023/10/logo-1.png" alt=""></a>
-            </div>
-            <div class="col-md-6 menu-principal">
-                <?php wp_nav_menu('header-menu');?>
-            </div>
-            <div class="col-md-3">
-                <form action="">
-                    <input class="buscar" type="search" placeholder=" Buscar">
-                    <button class="lupa">
-                        <i class="fa fa-search"></i>
-                    </button>
-                </form>
+    <header>
+        <div class="container">
+            <div class="row">
+                <div class="col-md-3">
+                    <a href="<?php echo home_url(); ?>"><img class="logo"src="http://localhost/wordpress/wp-content/uploads/2023/10/logo-1.png" alt=""></a>
+                </div>
+                <div class="col-md-6 menu-principal">
+                    <?php wp_nav_menu('header-menu');?>
+                </div>
+                <div class="col-md-3">
+                    <form action="">
+                        <input class="buscar" type="search" placeholder=" Buscar">
+                        <button class="lupa">
+                            <i class="fa fa-search"></i>
+                        </button>
+                    </form>
+                </div>
             </div>
         </div>
+        
     </header>

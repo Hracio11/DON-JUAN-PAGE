@@ -2,6 +2,13 @@ a{
     text-decoration: none;
     color: black;
 }
+header{
+    background-color: #ffffff;
+}
+body{
+    background-color: #dddddd;
+
+}
 input{
     margin-top: 20px;
     border-radius: 50px;
@@ -31,9 +38,12 @@ button{
     padding-left:10px;
     padding-right:10px;    
 }
-img{
+.logo{
     vertical-align: middle;
     width: 200px;
+}
+.banner{
+    width: 100%;
 }
 .attachment-woocommerce_thumbnail{
     height: 200px;
