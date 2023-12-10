@@ -60,9 +60,6 @@ button{
 .woocommerce ul.products li.product{
     text-align: center;
 }
-/*.woocommerce ul.products li.product a img {
-  
-}*/
 .slick-next, .slick-prev {
     display: none !important;
 }
@@ -76,3 +73,22 @@ footer{
     font-size: 100px;
 }
 
+.titulos{
+    margin: 30px 0px;
+    text-align: center;
+}
+
+.woocommerce ul.products li.product{
+    background-color: white;
+    width: 205px;
+    height: 350px;
+}
+
+.woocommerce span.onsale{
+    background-color: #bf0000;
+}
+
+.woocommerce ul.products li.product .button{
+    color: #ffffff;
+    margin: 10px 0px;
+}
