@@ -1,16 +1,15 @@
 <footer>
     <div  class="container">
         <div class="row">
-            <div class="col-md-3">          
-            </div>
+            
             <div class="col-md-6">
-                <h2>Contactanos</h2>
+                <h1>Contactanos</h1>
                 <p>(01)292-2243</p>
-                <p>Servicio al cliente:</p>
+                <h5>Servicio al cliente:</h5>
                 <p>Lunes a Domingo</p>
-                <p>6:30am a 10:00pm</p>
+                <p>6:30 am a 10:00 pm</p>
             </div>
-            <div class="col-md-3"> 
+            <div class="col-md-6">          
             </div>
         </div>
     </div>

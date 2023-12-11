@@ -6,7 +6,7 @@ header{
     background-color: #ffffff;
 }
 body{
-    background-color: #dddddd;
+    background-color: #ebebeb;
 
 }
 input{
@@ -91,4 +91,19 @@ footer{
 .woocommerce ul.products li.product .button{
     color: #ffffff;
     margin: 10px 0px;
+}
+.wc-block-cart__empty-cart__title {
+    margin: 25px 0px;
+}
+
+.wp-block-woocommerce-cart {
+    margin: 35px 0px;
+}
+
+.wc-block-components-button:not(.is-link) .wc-block-components-button__text {
+    display: block;
+    background-color: #00d354;
+    border-radius: 10px;
+    height: 35px;
+    width: 195px;
 }
