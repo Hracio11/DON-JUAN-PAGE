@@ -94,8 +94,9 @@ footer{
 
 .woocommerce ul.products li.product{
     background-color: white;
-    width: 205px;
-    height: 350px;
+    width: 30%;
+    height: 80%;
+
 }
 
 .woocommerce span.onsale{
@@ -116,4 +117,29 @@ footer{
 .woocommerce .quantity .qty{
     width: 100%;
     margin: 0px;
+}
+.woocommerce #review_form #respond .form-submit input {
+    background-color: #00bf62;
+    width: 10%;
+    color: white;
+}
+
+.woocommerce div.product .woocommerce-tabs ul.tabs li.active a {
+    color: inherit;
+    text-shadow: inherit;
+    margin: initial;
+}
+
+.woocommerce .woocommerce-breadcrumb {
+    margin-top: 10px;
+}
+#reply-title {
+    font-size: x-large;
+}
+.woocommerce #review_form #respond textarea {
+    width: 100%;
+    height: auto;
+}
+p.form-submit {
+    text-align: right;
 }
