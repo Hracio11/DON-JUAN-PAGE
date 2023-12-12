@@ -91,7 +91,9 @@ footer{
     margin: 30px 0px;
     text-align: center;
 }
-
+.woocommerce {
+    MARGIN: 45PX 0PX;
+}
 .woocommerce ul.products li.product{
     background-color: white;
     width: 30%;
