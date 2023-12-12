@@ -2,14 +2,19 @@
     <div  class="container">
         <div class="row">
             
-            <div class="col-md-6">
+            <div class="col-md-3">
                 <h1>Contactanos</h1>
-                <p>(01)292-2243</p>
-                <h5>Servicio al cliente:</h5>
-                <p>Lunes a Domingo</p>
-                <p>6:30 am a 10:00 pm</p>
+                <div class="datos">
+                    <p>(01)292-2243</p>
+                    <h5>Servicio al cliente:</h5>
+                    <p>Lunes a Domingo</p>
+                    <p>6:30 am a 10:00 pm</p>
+                </div>
+                
             </div>
             <div class="col-md-6">          
+            </div>
+            <div class="col-md-3">          
             </div>
         </div>
     </div>

@@ -17,8 +17,8 @@
     <header>
         <div class="container">
             <div class="row">
-                <div class="col-md-3">
-                    <a href="<?php echo home_url(); ?>"><img class="logo"src="http://localhost/wordpress/wp-content/uploads/2023/12/logo-1.png" alt=""></a>
+                <div class="col-md-3 cajalogo">
+                    <a href="<?php echo home_url(); ?>"><img class="logo"src="http://localhost/wordpress/wp-content/uploads/2023/10/logo-1.png" alt=""></a>
                 </div>
                 <div class="col-md-6 menu-principal">
                     <?php wp_nav_menu('header-menu');?>

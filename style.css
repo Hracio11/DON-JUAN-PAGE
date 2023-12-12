@@ -1,6 +1,7 @@
 a{
     text-decoration: none;
     color: black;
+    margin: 37px;
 }
 header{
     background-color: #ffffff;
@@ -10,9 +11,13 @@ body{
 
 }
 input{
+    width: 85%;
     margin-top: 20px;
     border-radius: 50px;
     height: 40px;
+}
+.datos{
+    text-align: left;
 }
 button{
     width: 40px;
@@ -22,7 +27,13 @@ button{
     border-radius: 50px;
     color: white;
 }
-
+.Ir{
+    width: 100%;
+    height: auto;
+    font-size: 30px;
+    font-weight: bold;
+    margin: 10px 0px;
+}
 .menu-principal ul{
     list-style:none;
     margin:0;
@@ -38,9 +49,12 @@ button{
     padding-left:10px;
     padding-right:10px;    
 }
+.cajalogo{
+    text-align: center;
+}
 .logo{
     vertical-align: middle;
-    width: 200px;
+    width: 200px;  
 }
 .banner{
     width: 100%;
@@ -92,18 +106,14 @@ footer{
     color: #ffffff;
     margin: 10px 0px;
 }
-.wc-block-cart__empty-cart__title {
-    margin: 25px 0px;
+.woocommerce div.product form.cart .button {
+
+    background-color: #00bf62;
+    width: 200px;
+    height: auto;
 }
 
-.wp-block-woocommerce-cart {
-    margin: 35px 0px;
-}
-
-.wc-block-components-button:not(.is-link) .wc-block-components-button__text {
-    display: block;
-    background-color: #00d354;
-    border-radius: 10px;
-    height: 35px;
-    width: 195px;
+.woocommerce .quantity .qty{
+    width: 100%;
+    margin: 0px;
 }
