@@ -2,7 +2,7 @@
     <div  class="container">
         <div class="row">
             
-            <div class="col-md-3">
+            <div class="footer1 col-md-3 ">
                 <h1>Contactanos</h1>
                 <div class="datos">
                     <p>(01)292-2243</p>
