@@ -175,3 +175,31 @@ li.woocommerce-MyAccount-navigation-link.woocommerce-MyAccount-navigation-link--
     FONT-SIZE: 25PX;
     /* text-decoration: NONE; */
 }
+
+.woocommerce-account .woocommerce-MyAccount-content {
+    float: inline-end;
+    width: 65%;
+    margin-top: 20px;
+}
+
+a.checkout-button.button.alt.wc-forward {
+    background-color: #00bf62;
+}
+
+table.shop_table.shop_table_responsive {
+    background-color: white;
+}
+input#coupon_code {
+    width: auto;
+}
+form.woocommerce-cart-form {
+    margin-top: 25px;
+}
+.woocommerce .cart .button {
+    float: none;
+    background-color: #00bf62;
+    width: auto;
+}
+tr{
+    text-align: center;
+}
