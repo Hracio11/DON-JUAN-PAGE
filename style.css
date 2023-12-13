@@ -216,3 +216,10 @@ tr{
 .footer1.col-md-3 {
     margin-top: 25px;
 }
+
+button.woocommerce-Button.button {
+    width: auto;
+    height: 70px;
+    background-color: #00bf62;
+    color: white;
+}
