@@ -2,13 +2,13 @@
 <section class="container">
     <div class="row banner1">
         <div class="banner autoplay">
-            <img class="banner" src="http://localhost/wordpress/wp-content/uploads/2023/10/1.png" alt="">
+            <img class="banner" src="https://donjuan.ayphu.cloud/wp-content/uploads/2023/12/1.png" alt="">
         </div>
         <div class="banner autoplay">
-            <img class="banner" src="http://localhost/wordpress/wp-content/uploads/2023/10/3.png" alt="">
+            <img class="banner" src="https://donjuan.ayphu.cloud/wp-content/uploads/2023/12/3.png" alt="">
         </div>
         <div class="banner autoplay">
-            <img class="banner" src="http://localhost/wordpress/wp-content/uploads/2023/10/2.png" alt="">
+            <img class="banner" src="https://donjuan.ayphu.cloud/wp-content/uploads/2023/12/2.png" alt="">
         </div>
     </div>
     <a class="Ir" href="https://donjuan.ayphu.cloud/?post_type=product">Ir a Tienda</a>
