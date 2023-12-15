@@ -11,7 +11,7 @@
             <img class="banner" src="http://localhost/wordpress/wp-content/uploads/2023/10/2.png" alt="">
         </div>
     </div>
-    <button class="Ir" >Ir a Tienda</button>
+    <a class="Ir" href="https://donjuan.ayphu.cloud/?post_type=product">Ir a Tienda</a>
     <div class="row">
         
         <h2 class="titulos">Productos en oferta</h2>
